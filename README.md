@@ -13,7 +13,7 @@ I use data to help people make better decisions and solve real problems.
 - Creating reports that actually help teams take action
 
 **What I'm Learning**
-- Advanced Python for data analysis
+- Still Python for data analysis
 - Data storytelling and visualization best practices
 
 **Fun Fact**  
