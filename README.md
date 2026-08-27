@@ -1,4 +1,4 @@
-### Hi, I'm a Data Analyst from Nigeria 🇳🇬
+### Hi, I'm a Data Analyst from Nigeria
 
 I use data to help people make better decisions and solve real problems.
 
