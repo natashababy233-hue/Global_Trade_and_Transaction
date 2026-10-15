@@ -3,7 +3,7 @@
 I use data to help people make better decisions and solve real problems.
 
 **Tech Stack**
-- **Tools**: Excel, Power BI, Tableau
+- **Tools**: Excel, Power BI, 
 - **Languages**: SQL, Python 
 - **Focus**: Data Cleaning, Dashboarding, Business Insights
 
